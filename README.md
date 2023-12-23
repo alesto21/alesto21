@@ -1,6 +1,7 @@
 ### Hi there 👋, Aleksandar Stojanovic
 #### Aspiring programmer/developer - Major In IT & Informationsystems
-![Aspiring programmer/developer - Major In IT & Informationsystems](https://www.canva.com/design/DAF31WxCx6A/SgEyAeZvJHXpKKW-_51H5g/edit?utm_content=DAF31WxCx6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Aspiring programmer/developer - Major In IT & Informationsystems] ![Profile Banner](![Aleksandar Stojanovic](https://github.com/alesto21/alesto21/assets/127410886/5543e8ac-a342-48bc-b16b-0867b02fdb4e)
+)
 
 Hello there! 👋 I'm Aleksandar, a dedicated student at the University of South-East Norway, passionate about programming and exploring the vast world of development.
 
