@@ -1,5 +1,5 @@
 
-### Hi there 👋, Aleksandar Stojanovic
+### Hi there 👋
 #### Software and Development
 ![Software and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
