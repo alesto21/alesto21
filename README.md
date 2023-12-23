@@ -1,6 +1,6 @@
 ### Hi there 👋, Aleksandar Stojanovic
 #### Aspiring programmer/developer - Major In IT & Informationsystems
-Aspiring programmer/developer - Major In IT & Informationsystems ![Aleksandar Stojanovic](https://github.com/alesto21/alesto21/assets/127410886/5543e8ac-a342-48bc-b16b-0867b02fdb4e
+Aspiring programmer/developer - Major In IT & Informationsystems ![Aleksandar Stojanovic](https://github.com/alesto21/alesto21/assets/127410886/5543e8ac-a342-48bc-b16b-0867b02fdb4e)
 
 
 Hello there! 👋 I'm Aleksandar, a dedicated student at the University of South-East Norway, passionate about programming and exploring the vast world of development.
