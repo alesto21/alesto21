@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### Aspiring programmer/developer - Major In IT & Informationsystems
+
 ![Aleksandar Stojanovic](https://github.com/alesto21/alesto21/assets/127410886/5543e8ac-a342-48bc-b16b-0867b02fdb4e)
 
 
