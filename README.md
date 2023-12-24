@@ -22,6 +22,12 @@ Let's connect and build something amazing together! 🚀
 
 Skills: I specialize in crafting web solutions with a versatile skill set, including proficiency in JavaScript, Java, Python, HTML5, and CSS. 🚀 Currently immersed in diverse projects, I'm committed to continuous improvement, consistently pushing the boundaries of my technical expertise. 💻🌐
 
+
+Explore my coding journey—from web development and beyond. Feel free to contribute, pose inquiries, and let's collaborate in coding together! 🚀💻✨
+Recent Projects:
+[snake.zip](https://github.com/alesto21/alesto21/files/13760456/snake.zip)
+
+
 - 🔭 I’m currently working on this page. 
 
 
