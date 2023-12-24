@@ -30,6 +30,7 @@ Skills: I specialize in crafting web solutions with a versatile skill set, inclu
 Explore my coding journey—from web development and beyond. Feel free to contribute, pose inquiries.
 
 Recent Projects:
+
 [snake.zip](https://github.com/alesto21/alesto21/files/13760456/snake.zip)
 
 
