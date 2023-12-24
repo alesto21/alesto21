@@ -33,7 +33,8 @@ Explore my coding journey—from web development and beyond. Feel free to contri
 
 Recent Projects:
 
-* https://github.com/alesto21/alesto21/tree/main/snake  Try It Out --> https://alesto21.github.io/snake/
+* https://github.com/alesto21/alesto21/tree/main/snake
+  - Try It Out --> https://alesto21.github.io/snake/
 
 
 - 🔭 I’m currently working on this page. 
