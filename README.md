@@ -17,7 +17,7 @@ I find joy in crafting elegant solutions to complex problems and am driven by a 
 🚀 Lifelong Learner
 The dynamic nature of the tech industry motivates me to stay abreast of the latest trends and technologies. I believe in the power of continuous learning and embrace every opportunity to expand my skill set. Whether it's experimenting with new programming languages, frameworks, or tools, I thrive on the excitement of the learning process.
 
-![Aleksandars GitHub stats](https://github-readme-stats.vercel.app/api?username=alesto21&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Aleksandars GitHub stats](https://github-readme-stats.vercel.app/api?username=alesto21&show_icons=true&theme=radical)
 
 
 🌟 Portfolio Highlights
