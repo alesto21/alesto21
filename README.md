@@ -31,7 +31,7 @@ Explore my coding journey—from web development and beyond. Feel free to contri
 
 Recent Projects:
 
-* [snake.zip](https://github.com/alesto21/alesto21/files/13760456/snake.zip)
+* snake
 
 
 - 🔭 I’m currently working on this page. 
