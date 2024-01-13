@@ -35,7 +35,7 @@ Recent Projects:
 
 * Snake Game  https://github.com/alesto21/alesto21/tree/main/snake
   - Try It Out --> https://alesto21.github.io/snake/
-* Website for Car Tyres and Rimms  https://github.com/alesto21/TireXpress/commit/3204fe68092fcf191df9ae2e9ab574b8ed5011ff
+* Website for Car Tyres and Rimms  https://github.com/alesto21/TireXpress/commit/a3045f4e62686331e94eeaad3b86f85be98eaba0
   - Try it out here --> https://alesto21.github.io/TireXpress/
 
 
