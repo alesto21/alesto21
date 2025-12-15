@@ -1,46 +1,70 @@
-### Hi there 👋
-#### Aspiring programmer/developer - Major In IT & Informationsystems
+### Hi 👋  
+### Junior Developer | Python • Backend • System Development
 
 ![Aleksandar Stojanovic](https://github.com/alesto21/alesto21/assets/127410886/5543e8ac-a342-48bc-b16b-0867b02fdb4e)
 
+Hi! I’m Aleksandar, a junior developer and IT & Information Systems student at the University of South-Eastern Norway.  
+I’m interested in backend and system-oriented development and enjoy learning by building practical projects.
 
-Hello there! 👋 I'm Aleksandar, a dedicated student at the University of South-East Norway, passionate about programming and exploring the vast world of development.
+I’m not a specialist yet, but I have hands-on experience with several technologies and focus on understanding how systems work end-to-end.
 
-🌐 Education
-I am currently pursuing my studies at the University of South-East Norway, where I am honing my skills and knowledge in various aspects of computer science and software engineering. The academic environment fuels my curiosity, and I am always eager to delve into new challenges and concepts.
+---
 
+### 🎓 Education
+**IT & Information Systems**  
+University of South-Eastern Norway  
+(Current student)
 
-💻 Passion for Programming
-I find joy in crafting elegant solutions to complex problems and am driven by a constant desire to enhance my programming prowess. My enthusiasm for coding extends beyond the classroom, as I actively seek opportunities to contribute to open-source projects and engage in collaborative coding endeavors.
+---
 
+### 💻 Technical interests
+- Backend and system development
+- Building simple, robust solutions first, then improving them
+- Understanding data flow, storage, and basic deployment
+- Learning through real projects rather than theory alone
 
-🚀 Lifelong Learner
-The dynamic nature of the tech industry motivates me to stay abreast of the latest trends and technologies. I believe in the power of continuous learning and embrace every opportunity to expand my skill set. Whether it's experimenting with new programming languages, frameworks, or tools, I thrive on the excitement of the learning process.
+---
 
-![Aleksandars GitHub stats](https://github-readme-stats.vercel.app/api?username=alesto21&show_icons=true&theme=radical)  
+### 🛠️ Technologies
+- **Languages:** Python, JavaScript, Java (basic)
+- **Backend:** Flask / basic REST APIs
+- **Frontend:** HTML, CSS (basic)
+- **Databases:** SQLite, SQL (basic understanding)
+- **Cloud / services:** AWS (basic), Firebase / Cloudbase
+- **Tools:** Git, Linux, Docker (basic)
+- **Other:** Raspberry Pi, automation, system integration
 
+---
 
-🌟 Portfolio Highlights
-Check out my GitHub repositories to explore some of my projects and see firsthand how I approach problem-solving and coding challenges. I welcome feedback and collaboration, so feel free to reach out if you share similar interests or if you have suggestions for improvement.
+### 📂 Projects
 
+#### 🐍 Snake Game
+A simple browser-based game built to practice JavaScript fundamentals and basic game logic.
 
-Let's connect and build something amazing together! 🚀
+- Code: https://github.com/alesto21/alesto21/tree/main/snake  
+- Demo: https://alesto21.github.io/snake/
 
-Skills: I specialize in crafting web solutions with a versatile skill set, including proficiency in JavaScript, Java, Python, HTML5, and CSS. 🚀 Currently immersed in diverse projects, I'm committed to continuous improvement, consistently pushing the boundaries of my technical expertise. 💻🌐
+#### 🚗 TireXpress – Website for car tyres and rims
+A small web project focusing on structure, layout, and basic frontend development.
 
+- Code: https://github.com/alesto21/TireXpress  
+- Demo: https://alesto21.github.io/TireXpress/
 
-Explore my coding journey—from web development and beyond. Feel free to contribute, pose inquiries.
+#### 🏭 BoxTracker (in progress)
+A Python-based system for tracking and counting boxes in a production environment.
 
-Recent Projects:
+- Backend logic in Python
+- Focus on robustness, structure, and data handling
+- Planned expansion with automation and hardware integration
 
-* Snake Game  https://github.com/alesto21/alesto21/tree/main/snake
-  - Try It Out --> https://alesto21.github.io/snake/
-* Website for Car Tyres and Rimms  https://github.com/alesto21/TireXpress/commit/24ff2aa395aeca969870af79ab9e25418047eabd
-  - Try it out here -->  https://alesto21.github.io/TireXpress/
+---
 
+### 🎯 Goals
+- Grow as a backend and system developer
+- Strengthen my Python skills in real-world applications
+- Learn more about cloud, DevOps, and deployment
+- Work in a team where I can contribute, learn, and improve
 
-- 🔭 I’m currently working on this page. 
+---
 
-
-
-
+Feel free to explore my repositories or reach out if you want to connect.
